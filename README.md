@@ -48,6 +48,6 @@ Display on the menu ```Username Tracker```
 on this menu you can search for information from the target username on social media
 
 <details>
-<summary>:zap: Author :</summary>
+<summary>:zap: Author : S4K1B </summary>
 - <strong><a href="https://github.com/S4K1BK1NG">Sakib king</a></strong>
 </details>
